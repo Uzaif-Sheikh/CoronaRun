@@ -1,5 +1,7 @@
 # CoronaRun
-This game was created for a 5 day long GameJam hosted by UNSWGameDev society. 
+This game was created for a 5 day long GameJam hosted by UNSWGameDev society.
+<br/>
+You can download the orginal game from [CoronaRun](https://gamenchill.itch.io/coronarun), this game is only available for Windows users.
 
 
 ![](coverGame.JPG)
