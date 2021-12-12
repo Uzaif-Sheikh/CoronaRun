@@ -6,6 +6,7 @@ This game was created for a 5 day long GameJam hosted by UNSWGameDev society.
   
 This was a small 2D game something like flappy bird, this game is created using Unity game engie and C# as the programming languague. The assets for this game is taken from 
 a free game assets website [Here](https://www.kenney.nl/assets) and some assets were made by me using photoshop.
+In This repo I am just adding the script I used to create the game.
 
 ![](sudoku2.JPG)  
 
