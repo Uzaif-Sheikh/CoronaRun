@@ -5,7 +5,7 @@ This game was created for a 5 day long GameJam hosted by UNSWGameDev society.
 ![](sudoku1.JPG)
   
 This was a small 2D game something like flappy bird, this game is created using Unity game engie and C# as the programming languague. The assets for this game is taken from 
-a free game assets website (<a src="https://www.kenney.nl/assets">Here</a>) and some assets were made by me using photoshop.
+a free game assets website [Here](https://www.kenney.nl/assets) and some assets were made by me using photoshop.
 
 ![](sudoku2.JPG)  
 
